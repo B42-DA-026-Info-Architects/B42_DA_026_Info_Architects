@@ -52,6 +52,22 @@ Named
   - TotalCharges
   - Churn
 
+**Dataset Summary**
+
+- Rows: 21
+
+- Columns: 7043
+
+---
+
+## **Key Features**:
+
+
+
+
+
+
+
 
 
 
