@@ -12,8 +12,13 @@ This project not only demonstrates the effective use of machine learning in solv
 
 PowerBi Dashboard, using Python and Machine Learning for modeling
 
-## **Deployed App**
+## 🌐**Deployed App**
 
+https://drive.google.com/file/d/1Is5Vj7SKXFPxpRRXPCgx0CwyfrNUByqm/view?usp=sharing
+
+## **Video WalkThrough of the project**
+
+https://drive.google.com/file/d/1w1ZvFe0w6BWww_fjkrnAgcDcALkZkeHB/view?usp=sharing
 
 ## 📂 **About the Dataset**
 
@@ -60,7 +65,7 @@ Named
 
 ---
 
-Project Structure
+**Project Structure**
 graphql
 Copy
 Edit
@@ -72,53 +77,73 @@ Customer-Churn-Prediction/
 ├── templates/          # HTML files for UI (if using Flask/Django)  
 ├── static/             # CSS, JS, images for UI (if applicable)  
 └── README.md           # Project documentation  
-Installation and Setup
-Clone the repository:
-bash
-Copy
-Edit
-git clone (https://github.com/B42-DA-026-Info-Architects/B42_DA_026_Info_Architects/tree/main)  
-Navigate to the project directory:
-bash
-Copy
-Edit
-cd Customer-Churn-Prediction  
-Install required dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt  
-Run the application (if using a web interface):
-bash
-Copy
-Edit
-python app.py  
-How to Use
+
+## 🚀**Installation and Setup**
+
+1. **Clone the repository:**
+  ```bash
+  git clone (https://github.com/B42-DA-026-Info-Architects/B42_DA_026_Info_Architects/tree/main)
+  cd Customer-Churn-Prediction
+```
+
+2. **Install required dependencies:**
+
+  ```bash
+  pip install -r requirements.txt
+  ``` 
+
+3. **Run the application (if using a web interface):**
+
+  ```bash
+  python app.py
+``` 
+
+**How to Use**
+
 Upload Dataset: Upload a CSV file containing customer data.
+
 Train the Model: Click the "Train Model" button to build a churn prediction model.
+
 View Insights: Analyze churn trends and model performance metrics.
+
 Sample Dataset
+
 You can use the Telco Customer Churn Dataset from Kaggle for testing and training.
 
 Model Evaluation
+
 The model performance is evaluated using the following metrics:
 
-Accuracy: 85%
-Precision: 80%
-Recall: 78%
-F1-score: 79%
-Visualization Dashboard
+- Accuracy: 85%
+- Precision: 80%
+- Recall: 78%
+- F1-score: 79%
+- Visualization Dashboard
+
 For advanced insights, use Power BI or Tableau to create a dynamic dashboard highlighting churn trends, high-risk segments, and contract duration impacts.
 
-Insights Gained
-Demographic Impact: Older customers with longer tenure tend to have lower churn rates.
-High-risk Segments: Customers who contact support more frequently are at higher risk of churning.
-Contract Duration: Short-term contract customers have a higher churn rate.
-Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+**Insights Gained**
 
-License
-This project is licensed under the MIT License.
+- Demographic Impact: Older customers with longer tenure tend to have lower churn rates.
+- High-risk Segments: Customers who contact support more frequently are at higher risk of churning.
+- Contract Duration: Short-term contract customers have a higher churn rate.
+
+## 🛠️**Technology Stack**
+
+List and provide a brief overview of the technologies used in the project.
+
+- Python
+- Pandas
+- matplotlib
+- seaborn
+- Machine Learning
+- Random Forest Regression
+- Power BI
+
+## ❤️**Contributing**
+
+Contributions are welcome! Fork the repository, create a new branch, and submit your pull request with improvements or new features.
+
 
 
 
