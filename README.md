@@ -77,7 +77,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Customer-Churn-Prediction.git  
+git clone (https://github.com/B42-DA-026-Info-Architects/B42_DA_026_Info_Architects/tree/main)  
 Navigate to the project directory:
 bash
 Copy
